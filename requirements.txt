@@ -1,6 +1,9 @@
 streamlit
 pandas
+numpy
 matplotlib
-ta
 plotly
-uuid # Bien que uuid soit standard, l'ajouter explicitement ne fait pas de mal.
+ta
+scikit-learn
+joblib
+pandas-ta
